@@ -1,0 +1,56 @@
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    /* background-color: #1d809f; */
+    /* background-color: linear-gradient(to right, rgba(255, 0, 0, 0), rgb(46, 41, 41)); */
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.logo{
+    font-size: 22px;
+    color: rgb(105, 53, 53);
+ 
+}
+
+ul{
+    list-style: none;
+
+}
+nav ul li{
+    display: inline-block;
+    margin-right: 10px;
+
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: rgb(76, 42, 167);
+
+}
+
+/* -------------------------------------------------------------------- */
+                        /* middle part */
+                        
+                        
+header {
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+header h1 {
+    margin: 0;
+    color: rgb(43, 170, 111);
+    
+
+}
+
+.About h2{
+    color: rgb(199, 211, 28);
+    text-align: center;
+}
+

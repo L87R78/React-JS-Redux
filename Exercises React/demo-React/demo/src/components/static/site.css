@@ -1,0 +1,12 @@
+.h1-color{
+    background-color: yellowgreen;
+}
+.clock-color{
+    color: aqua;
+    background-color: blue;
+    font-size: 100px
+}
+.image-size{
+    height: 200px;
+    background-color: powderblue;
+}

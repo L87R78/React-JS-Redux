@@ -1,0 +1,53 @@
+a.nav-link {
+    display: inline-block;
+    color: rgb(255, 255, 255, 0.75);
+}
+
+a.nav-link:hover {
+    color: white;
+}
+
+a.nav-link.active {
+    color: white;
+}
+
+.space-top {
+    margin-top: 2em;
+}
+
+.navbar span {
+    color: #bbbbbb;
+}
+
+.card-blockquote>img {
+    width: 100%;
+}
+
+.card {
+    margin-bottom: 1em;
+}
+
+.selected {
+    background: #666666;
+}
+
+.container-modal-footer {
+    display: table;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row space-top {
+    display: inline-block;
+    text-align: center;
+
+
+}
+.container {
+    text-align: center;
+   
+}
+.form-search{
+    text-align: center;
+}

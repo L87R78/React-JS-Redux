@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "3.0.0",
+    "body-parser": "1.18.2",
+    "cors": "^2.8.5",
+    "express": "4.16.2",
+    "express-handlebars": "3.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.2.3",
+    "mongoose": "4.12.1",
+    "mongose": "0.0.2-security",
+    "nodemon": "^1.18.9"
+  }
+}
